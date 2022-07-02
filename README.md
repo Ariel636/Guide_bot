@@ -4,7 +4,7 @@ This is a telegram bot developed by me specifically for my school-"International
 Functions of this bot: 
 1) Providing information about each teacher in the school.
 
-2)Presentation of the latest schedule in a convenient mode. 
+2) Presentation of the latest schedule in a convenient mode. 
 
 3) Familiarization with the social life of the lyceum for those wishing to enroll. 
 
