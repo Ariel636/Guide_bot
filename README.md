@@ -10,4 +10,4 @@ Functions of this bot:
 
 4) Issuance of the location of offices in the building.  
 
-Link to the bot in the telegram: https://t.me/https://t.me/Guide_IHT_bot
+Link to the bot in the telegram: https://t.me/Guide_IHT_bot
