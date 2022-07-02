@@ -2,7 +2,7 @@
 This is a telegram bot developed by me specifically for my school-"International House-Tashkent". At the beginning of my last year of study, I wanted to leave something behind, something for which I will be remembered and for me it's something like <b>"Thank you, my school. Thank you, my teachers."</b>
 
 Functions of this bot: 
-1) Providing information about each teacher in the school. 
+1) Providing information about each teacher in the school.
 
 2)Presentation of the latest schedule in a convenient mode. 
 
